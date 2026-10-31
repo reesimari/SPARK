@@ -18,4 +18,4 @@ Next
 
 Time spent
 - 50h (estimated)
-![Robot initial design](Devlogs/images/Screenshot 2026-06-19 at 02.17.37.png)
+![Robot initial design](images/Screenshot 2026-06-19 at 02.17.37.png)
