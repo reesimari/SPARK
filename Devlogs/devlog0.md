@@ -20,7 +20,7 @@
 - 50h (estimated)
 
 ## Screenshots
-initial design (robot and bugs)
+initial designs
 
 ![Robot initial design](images/init_robot_design.png)
 
