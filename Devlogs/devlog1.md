@@ -1,16 +1,16 @@
-What I did
+##What I did
 - Created the SPARK repository
 - Added a Unity .gitignore
 
-What worked / didn't
+##What worked / didn't
 - nothing to bring out
 
-Problems and fixes
+##Problems and fixes
 - no problems
 
-Next steps
+##Next steps
 - make the jump, stretch and splat character animation/ movement
 - design spawn
 
-Time spent
+##Time spent
 - 6.30h
