@@ -21,3 +21,5 @@
 
 ## Screenshots
 ![Robot initial design](images/init_robot_design.png)
+![Robot initial design](images/movement.mov)
+![Robot initial design](images/New Piskel.gif)
