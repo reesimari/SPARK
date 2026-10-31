@@ -20,13 +20,12 @@
 - 50h (estimated)
 
 ## Screenshots
-![Robot initial design](images/sketches.png)
-
 initial designs
 
+![Robot initial design](images/sketches.png)
 ![Robot initial design](images/init_robot_design.png)
 
 updated robot moving and jumping
 
-![Robot initial design](images/movement.mov)
+<img src="images/movement.mov" width="600" alt="Unity test">
 ![Robot initial design](images/little_jump.gif)
