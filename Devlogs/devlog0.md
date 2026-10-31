@@ -23,9 +23,9 @@
 initial designs
 
 ![Robot initial design](images/sketches.png)
-![Robot initial design](images/init_robot_design.png)
+![Robot initial design 2](images/init_robot_design.png)
 
 updated robot moving and jumping
 
+![Robot jumping](images/little_jump.gif)
 <img src="images/movement.mov" width="600" alt="Unity test">
-![Robot initial design](images/little_jump.gif)
