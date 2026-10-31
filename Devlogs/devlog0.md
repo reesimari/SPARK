@@ -20,4 +20,4 @@
 - 50h (estimated)
 
 ## Screenshots
-![Robot initial design](images/Screenshot 2026-06-19 at 02.17.37.png)
+![Robot initial design](images/Screenshot%202026-06-19%20at%2002.17.37.png)
