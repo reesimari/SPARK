@@ -23,8 +23,8 @@
 initial designs
 
 ![Robot initial design](images/sketches.png)
-![Robot initial design 2](images/initial_robot_design.png)
-![Robot initial design 2](images/bug_designs.png)
+<img src="images/initial_robot_design.png" width="600" alt="Unity test">
+<img src="images/bug_designs.png" width="600" alt="Unity test">
 
 updated robot moving and jumping
 
