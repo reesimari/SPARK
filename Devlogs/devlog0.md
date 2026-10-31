@@ -20,6 +20,8 @@
 - 50h (estimated)
 
 ## Screenshots
+initial design (robot and bugs)
 ![Robot initial design](images/init_robot_design.png)
 ![Robot initial design](images/movement.mov)
+updated robot jumping
 ![Robot initial design](images/little_jump.gif)
