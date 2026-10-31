@@ -23,7 +23,8 @@
 initial designs
 
 ![Robot initial design](images/sketches.png)
-![Robot initial design 2](images/init_robot_design.png)
+![Robot initial design 2](images/initial_robot_design.png)
+![Robot initial design 2](images/bug_designs.png)
 
 updated robot moving and jumping
 
