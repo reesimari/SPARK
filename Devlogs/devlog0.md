@@ -1,21 +1,23 @@
-What I did
+## What I did
 - set up unity
 - character and movement design
 - character movement (idle, walk, jump)
 - jump animation
 
-What worked / didn't
+## What worked / didn't
 - piskel for animation was good
 
-Problems and fixes
+## Problems and fixes
 - idle to walk animation transformation is weird
 - jump animation doesn't work in game
 
-Next
+## Next
 - make repo
 - set up github
 - fix previously stated problems
 
-Time spent
+## Time spent
 - 50h (estimated)
+
+## Screenshots
 ![Robot initial design](images/Screenshot 2026-06-19 at 02.17.37.png)
