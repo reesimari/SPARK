@@ -15,5 +15,5 @@
 * 4h
 
 ## Screenshots
-![Robot jumping in game](images/animated_jump_in_game.mov)
+![Robot jumping in game](images/animated_jump_game.mov)
 
